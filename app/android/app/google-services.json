@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "898725893923",
+    "project_id": "minimal-social-app-50e87",
+    "storage_bucket": "minimal-social-app-50e87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898725893923:android:5f8433703820f2bdf9de96",
+        "android_client_info": {
+          "package_name": "com.dsafehouse.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh5LO8ZJxOdF8dXup23IJfNQGAJ01AmWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898725893923:android:cbb48d3f66feffe7f9de96",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh5LO8ZJxOdF8dXup23IJfNQGAJ01AmWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
